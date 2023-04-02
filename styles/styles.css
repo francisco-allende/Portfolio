@@ -168,6 +168,11 @@ a:hover {
         margin-bottom: 1em;
     }
 
+    #work-title{
+        padding-bottom: 0.3em; 
+        font-size: 43px;
+    }
+
   }
 
   
